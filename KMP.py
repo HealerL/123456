@@ -36,4 +36,4 @@ B = 'cde'
 
 result = index_search(A, B)
 print(result)
-
+print('test')
