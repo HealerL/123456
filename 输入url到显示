@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T00:18:36.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.3.3" etag="UrEUWc8DkqFLYni8OkfL" type="github"><diagram id="zF_uxXZ6cPwmkG0NrwNR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-24T06:10:55.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="zQ61Fyrlfgr1t36BE7xs" version="15.3.3" type="github">
+  <diagram id="zF_uxXZ6cPwmkG0NrwNR" name="Page-1">
+    <mxGraphModel dx="942" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;输入URL到显示的过程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-2310" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-10" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-2" target="RbI12G_dGLMEFW7eiiGY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;输入&lt;font style=&quot;font-size: 17px&quot;&gt;地址&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-11" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-4" target="RbI12G_dGLMEFW7eiiGY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;浏览器将域名转换为IP地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-2150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-12" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-5" target="RbI12G_dGLMEFW7eiiGY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;浏览器向Web服务器发送HTTP请求&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-2150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-14" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-7" target="RbI12G_dGLMEFW7eiiGY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;服务器处理请求&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;hachureGap=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-16" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-13" target="RbI12G_dGLMEFW7eiiGY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;服务器返回HTTP响应&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-18" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-15" target="RbI12G_dGLMEFW7eiiGY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;浏览器显示HTML&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-20" value="" style="edgeStyle=none;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-17" target="RbI12G_dGLMEFW7eiiGY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;浏览器解析HTML&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-19" value="&lt;font style=&quot;font-size: 17px&quot;&gt;发送请求获取嵌入在HTML中的资源（图片视频，css，js等）&lt;br&gt;图片类资源是异步下载不会影响解析。&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-1580" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-21" value="输入时，浏览器会将输入与书签历史记录进行智能提示" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-2220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-22" value="DNS协议将域名解析为IP地址。&lt;br&gt;并记录在缓存中，方便下次使用。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-2230" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-25" value="" style="endArrow=none;dashed=1;html=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="-2050" as="sourcePoint" />
+            <mxPoint x="240" y="-2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;浏览器通过向DNS服务器发送域名，DNS服务器查询到与域名对应的IP地址，返回给服务器。&lt;br&gt;查询过程类似于快递那样一层一层向下查找&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-2050" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-28" value="拿到服务器IP地址后，先发送TCP连接请求，TCP连接建立后发送HTTP请求" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="-2240" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-29" value="接收到TCP报文后，上传到应用层用HTTP协议解析" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-2230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-13" target="RbI12G_dGLMEFW7eiiGY-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="-1890" as="sourcePoint" />
+            <mxPoint x="740" y="-1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-31" value="处理请求，返回一个HTTP响应报文" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1.006;exitY=0.124;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RbI12G_dGLMEFW7eiiGY-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="-1790" as="sourcePoint" />
+            <mxPoint x="340" y="-1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-34" value="&lt;ol style=&quot;padding-left: 28px ; color: rgb(51 , 51 , 51) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;noto sans&amp;#34; , sans-serif , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;list-style: inherit ; margin-bottom: 0px ; padding-left: 6px&quot;&gt;&lt;p style=&quot;line-height: inherit ; margin-top: 22px ; margin-bottom: 22px&quot;&gt;解析HTML生成DOM树。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;list-style: inherit ; margin-bottom: 0px ; padding-left: 6px&quot;&gt;&lt;p style=&quot;line-height: inherit ; margin-top: 22px ; margin-bottom: 22px&quot;&gt;解析CSS生成CSSOM规则树。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;list-style: inherit ; margin-bottom: 0px ; padding-left: 6px&quot;&gt;&lt;p style=&quot;line-height: inherit ; margin-top: 22px ; margin-bottom: 22px&quot;&gt;将DOM树与CSSOM规则树合并在一起生成渲染树。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;list-style: inherit ; margin-bottom: 0px ; padding-left: 6px&quot;&gt;&lt;p style=&quot;line-height: inherit ; margin-top: 22px ; margin-bottom: 22px&quot;&gt;遍历渲染树开始布局，计算每个节点的位置大小信息。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;list-style: inherit ; margin-bottom: 0px ; padding-left: 6px&quot;&gt;&lt;p style=&quot;line-height: inherit ; margin-top: 22px ; margin-bottom: 22px&quot;&gt;将渲染树每个节点绘制到屏幕&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1830" width="170" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RbI12G_dGLMEFW7eiiGY-35" value="&lt;font style=&quot;font-size: 13px&quot;&gt;JS文件会阻塞文档的资源下载。需要等到JS文件下载并解析执行完毕才会恢复html文档的线程。&lt;br&gt;&lt;br&gt;因为JS有可能会修改DOM。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1740" width="120" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
